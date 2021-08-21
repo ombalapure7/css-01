@@ -1,4 +1,4 @@
 # css-01
-Creating a card using CSS3
+Task: Creating a card using CSS3 with box shadow 
 <br />
 Netlify link: https://silly-raman-1a6455.netlify.app/
